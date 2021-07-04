@@ -27,7 +27,7 @@ void setup() {
 void loop() {
   // Çalışma Başlatılıyor
   Serial.println("=================================");
-  Serial.println("Sample DHT11...");
+  Serial.println("DHT11 BASLATILIYOR...");
   
   byte temperature = 0;                // sıcaklık verimiz için başlangıçda değeri 0 olan temperature değişkeni tanımlandı.
   byte humidity = 0;                  //  nem verimiz için başlangıçda değeri 0 olan humidity değişkeni tanımlandı.
@@ -35,7 +35,7 @@ void loop() {
 
   //Hata Bloğu döndürülen değere göre işlem yapacak
   if ((err = dht11.read(&temperature, &humidity, NULL)) != SimpleDHTErrSuccess) {
-    Serial.print("Read DHT11 failed, err="); Serial.println(err);delay(1000);
+    Serial.print("DHT11 OKUMA HATASI, err="); Serial.println(err);delay(1000);
     return;
   }
   /********************************************************/
