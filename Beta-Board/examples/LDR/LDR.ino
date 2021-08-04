@@ -1,13 +1,12 @@
+/* PHOTONTECH */
+
 /*
   LDR
 
   LDR sensörü kullanılarak ışık şiddetini ölçüp 
   serial monitörde 1sn aralıkla gösteren uygulama.
 
-  Düzenleme 27.12.2020 - Uğur Koyun
-  Düzenleme 09.01.2021 - Yusuf Enes TATAR
-
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Beta-Board
 
