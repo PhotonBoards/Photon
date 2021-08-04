@@ -1,12 +1,11 @@
+/* PHOTONTECH */
+
 /*
   DHT11
 
   DHT11 sıcaklık ve nem sensörü kullanılarak yapılan arduino uygulaması.
 
-  Düzenleme 27.12.2020 - Uğur KOYUN
-  Düzenleme 09.01.2021 - Yusuf Enes TATAR
-
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Beta-Board
 
