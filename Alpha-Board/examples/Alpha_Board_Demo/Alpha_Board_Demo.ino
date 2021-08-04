@@ -1,13 +1,12 @@
+/* PHOTONTECH */
 /*
   Alpha_Board_Demo
   
   Board üzerindeki pinler birer saniye arayla yakılıp söndürülür.
   İki adet butondan 7.pine bağlı olan buzzer'ı sustururken, 6.pin'e bağlı olanı buzzer'ı öttürür.
 
-  Düzenleme 26.12.2020 - Uğur KOYUN
-  Düzenleme 29.12.2020 - Yusuf Enes TATAR
    
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
   
   https://github.com/PhotonTechnologyCodeSpace/Alpha-Board
   
