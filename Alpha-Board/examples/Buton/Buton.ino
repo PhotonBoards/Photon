@@ -1,13 +1,11 @@
+/* PHOTONTECH */
 /*
   Buton Uygulaması
   
   7.pin'e bağlı butona basıldığında, 4.pin'e bağlı LED açılır. 
   Eğer basılmamışsa Led kapatılır.
-
-  Düzenleme 26.12.2020 - Uğur KOYUN
-  Düzenleme 29.12.2020  - Yusuf Enes TATAR
    
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Alpha-Board
  
